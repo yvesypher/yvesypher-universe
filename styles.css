@@ -1,0 +1,19 @@
+/* css styles */
+.navbar-dark, .quarto-title-banner {
+  background-color: #18BC9C;
+  color: white !important;
+
+}
+
+.g-col-8{
+  text-align: justify;
+}
+
+
+body{
+  text-align: justify;
+}
+
+.caption{
+   text-align: center;
+}

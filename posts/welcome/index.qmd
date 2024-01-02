@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "yvesypher"
+date: "2023-12-30"
+categories: [welcome]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+

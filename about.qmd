@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/yvesypher
+      
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/minh-nguyen-1203/
+---
+
+🤓This is a blog by Xuan Nhat Minh Nguyen - a visualization lover 🥰
