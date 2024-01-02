@@ -1,0 +1,22 @@
+---
+title: "Thirteen Theories of Human Nature"
+subtitle: "Mười ba học thuyết về bản tính con người"
+author:  
+  - Leslie Stevenson
+  - David L. Haberman
+  - Peter Matthews Wright
+  - Charlotte Witt
+categories: [philosophy, book]
+image: "human-nature.jpg"
+listing:
+    contents: chap1
+    type: table
+---
+
+### Một “Học thuyết" về ”Bản tính con người” gồm 4 mục sau đây:
+
+1. Một **Bối cảnh Siêu hình** về vũ trụ và chỗ đứng của con người trong đó
+2. Một **Lý thuyết về Bản tính con người** trong một nghĩa hẹp, gồm một số khẳng định tiêu biểu khái quát về hữu thể con người, xã hội con người và thân phận con người
+3. Một **Chẩn đoán** về một số nhược điểm tiêu biểu trong hữu thể con người, về những điều có thể sai lạc trong cuộc sống và xã hội con người
+4. Một **Đơn thuốc** hay lý tưởng cho biết làm cách nào cuộc sống của con người có thể sống tốt hơn, đặc biệt cung cấp những hướng dẫn cho cá nhân và xã hội con người.
+

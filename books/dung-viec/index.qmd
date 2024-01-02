@@ -1,0 +1,11 @@
+---
+title: "Đúng việc"
+author: Giản Tư Trung
+categories: [philosophy, education, book]
+image: "dung-viec.jpg"
+listing:
+    contents: chap1
+    type: table
+---
+
+“Đúng việc” là một cuốn sách quy chuẩn hoá sâu sắc những khái niệm liên quan đến bổn phận của một con người trên cõi đời này. Được viết bởi Giản Tư Trung - một nhà giáo dục với tư tưởng chuẩn mực và tiến bộ, sách làm rõ các khái niệm về làm người, làm dân, làm việc, và làm giáo dục. Tác giả đặt ra các vấn đề với người đọc, đưa ra tiên đề và quy chuẩn hoá các khái niệm, dùng lập luận và các dẫn chứng để củng cố luận điểm. Như nhan đề “Đúng việc”, tác giả phân định rạch ròi giữa các khái niệm bằng phép so sánh đối chiếu, ví dụ như nhấn mạnh sự khác nhau giữa doanh nhân và con buôn hay phân tầng sự hạnh phúc trong công việc của một doanh nhân; từ đó sự mù mờ trong việc định nghĩa được giảm thiểu. Cuốn sách này giúp độc giả nâng cao khả năng quy chuẩn hoá và lập luận một cách mạch lạc. 

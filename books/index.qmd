@@ -1,0 +1,8 @@
+---
+title: "Book notes & reviews"
+listing:
+    contents: 
+      - human-nature/index.qmd
+      - dung-viec/index.qmd
+    type: grid
+---

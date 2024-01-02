@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _output
+  output-dir: docs
 
 website:
   title: "Yvesypher's universe"
@@ -12,26 +12,14 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/minh-nguyen-1203/
     left:
-      - sidebar:notes
       - sidebar:books
-      - sidebar:blogs
       
   sidebar:
-    - id: notes
-      title: "Learning notes"
-      style: "docked"
-      collapse-level: 3
-      contents: learn-notes
     - id: books
       title: "Books"
       style: "docked"
       collapse-level: 3
       contents: books
-    - id: blogs
-      title: "Random thoughts"
-      style: "docked"
-      collapse-level: 3
-      contents: blogs
         
   search: 
     location: navbar

@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/books/index.html",
+    "items": [
+      "/books/human-nature/index.html",
+      "/books/dung-viec/index.html"
+    ]
+  },
+  {
+    "listing": "/books/human-nature/index.html",
+    "items": [
+      "/books/human-nature/chap1/index.html"
+    ]
+  },
+  {
+    "listing": "/books/dung-viec/index.html",
+    "items": [
+      "/books/dung-viec/chap1/index.html"
+    ]
+  }
+]
