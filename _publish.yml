@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 74d64d41-1baf-4012-ae77-8acec069d8d8
+      url: 'https://yvesypher.quarto.pub/yvesyphers-universe'

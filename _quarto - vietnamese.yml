@@ -1,0 +1,27 @@
+project:
+  title: "Vũ trụ của Yvesypher"
+  output-dir: ./_site/vn
+
+website:
+  site-url: https://yvesypher.quarto.pub/yvesyphers-universe/
+  body-header: |
+    <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('/vn/','/en/');" class="btn"><i class="fa fa-language"></i> English </button>
+  navbar:
+    right:
+      - href: about.qmd
+        text: About me
+      - icon: github
+        href: https://github.com/yvesypher
+      - icon: linkedin
+        href: https://www.linkedin.com/in/minh-nguyen-1203/
+      - href: ../vn
+        text: Vietnamese
+      - href: ../en
+        text: English
+    
+lang: vn
+
+format:
+  html:
+    theme: flatly
+    css: styles.css

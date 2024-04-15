@@ -13,4 +13,14 @@ about:
       href: https://www.linkedin.com/in/minh-nguyen-1203/
 ---
 
+::: {.content-visible when-profile="english"}
+
 🤓This is a blog by Xuan Nhat Minh Nguyen - a visualization lover 🥰
+
+:::
+
+::: {.content-visible when-profile="vietnamese"}
+
+🤓Blog của Nguyễn Xuân Nhật Minh - yêu visualization, ghét sự giả dối 🥰
+
+:::

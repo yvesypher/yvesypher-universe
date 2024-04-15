@@ -1,0 +1,10 @@
+---
+title: "Cash - My Markov Chain bestie"
+---
+
+I have a really close friend called Cash. He is Malaysian Chinese, major in Econometrics and working on Bayesian inference during his Honours year. I first met him on week 3 of semester 1, 2023 when we did 2 Honours classes together. At first sight, we did not have good impression on each other for some reasons. He soon developed close friendship since winter break when we kept hanging out and drinking together.
+
+Cash admitted he was not good at memorising so that is why he really put lots of effort in understanding knowledge rather than memorising it by heart. He often forgot what we did the day before, where we went,... I often call him a Markov Chain, an AR(1). So why did I call him like that? What is Markov Chain? What is AR(1)?
+
+# Markov Chain
+

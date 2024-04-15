@@ -2,3 +2,13 @@
 title: "✨Let's get on the spaceship to explore my universe 🎇"
 title-block-banner: true
 ---
+
+::: {.content-visible when-profile="english"}
+Welcome to Yvesypher's universe
+:::
+
+::: {.content-visible when-profile="vietnamese"}
+
+Chào mừng tới vũ trụ của Yvesypher
+
+:::

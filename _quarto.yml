@@ -1,34 +1,6 @@
 project:
   type: website
-  output-dir: docs
 
-website:
-  title: "Yvesypher's universe"
-  navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/yvesypher
-      - icon: linkedin
-        href: https://www.linkedin.com/in/minh-nguyen-1203/
-    left:
-      - sidebar:books
-      
-  sidebar:
-    - id: books
-      title: "Books"
-      style: "docked"
-      collapse-level: 3
-      contents: books
-        
-  search: 
-    location: navbar
-    type: overlay
-
-format:
-  html:
-    theme: flatly
-    css: styles.css
-
-
-
+profile:
+  default: english
+  group: [english, vietnamese]
