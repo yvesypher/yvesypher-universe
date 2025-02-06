@@ -85,7 +85,7 @@
   },
   {
     "id": 16,
-    "name": "animate",
+    "name": "NSW",
     "parent": 1
   },
   {
@@ -215,7 +215,7 @@
   },
   {
     "id": 38,
-    "name": "data",
+    "name": "ACT",
     "parent": 1
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "id": 51,
-    "name": "display",
+    "name": "Queensland",
     "parent": 1
   },
   {
@@ -320,7 +320,7 @@
   },
   {
     "id": 56,
-    "name": "flex",
+    "name": "South Australia",
     "parent": 1
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "id": 58,
-    "name": "physics",
+    "name": "Tasmania",
     "parent": 1
   },
   {
@@ -384,7 +384,7 @@
   },
   {
     "id": 67,
-    "name": "query",
+    "name": "Western Australia",
     "parent": 1
   },
   {
@@ -754,7 +754,7 @@
   },
   {
     "id": 129,
-    "name": "scale",
+    "name": "Northern Territory",
     "parent": 1
   },
   {
