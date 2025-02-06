@@ -818,11 +818,6 @@
     "size": 5833
   },
   {
-    "id": 140,
-    "name": "util",
-    "parent": 1
-  },
-  {
     "id": 141,
     "name": "Arrays",
     "parent": 140,
@@ -986,11 +981,6 @@
     "name": "Strings",
     "parent": 140,
     "size": 22026
-  },
-  {
-    "id": 169,
-    "name": "vis",
-    "parent": 1
   },
   {
     "id": 170,
